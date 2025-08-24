@@ -1,4 +1,4 @@
-# First Automation Project 🚀
+# Automation Project Python 🚀
 
 A comprehensive web automation testing framework built with Python, Selenium, and PyTest. This project demonstrates automated testing of login functionality using the Page Object Model design pattern.
 
