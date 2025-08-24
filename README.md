@@ -148,9 +148,9 @@ After running tests, you can find:
 
 ## 📞 Contact
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+Senali Madawala - [senalimadawala@gmail.com](mailto:your.email@example.com)
 
-Project Link: [https://github.com/yourusername/FirstAutomationProject](https://github.com/yourusername/FirstAutomationProject)
+Project Link: [https://github.com/yourusername/AutomationProjectPy](https://github.com/SenaliMadawala/AutomationProjectPy)
 
 ---
 ⭐ If you found this project helpful, please give it a star!
