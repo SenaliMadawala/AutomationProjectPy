@@ -150,7 +150,7 @@ After running tests, you can find:
 
 Senali Madawala - [senalimadawala@gmail.com](mailto:your.email@example.com)
 
-Project Link: [https://github.com/yourusername/AutomationProjectPy](https://github.com/SenaliMadawala/AutomationProjectPy)
+Project Link: [https://github.com/SenaliMadawala/AutomationProjectPy](https://github.com/SenaliMadawala/AutomationProjectPy)
 
 ---
 ⭐ If you found this project helpful, please give it a star!
